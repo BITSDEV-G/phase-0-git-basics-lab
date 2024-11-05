@@ -85,7 +85,7 @@ $ npm install
 This sets up the tools we'll use for testing. To run the tests, type the following
 once you regain control of the command line:
 
-```console
+```consolemkdir 
 $ npm test
 ```
 
